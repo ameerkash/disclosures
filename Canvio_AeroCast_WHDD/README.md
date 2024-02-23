@@ -1,7 +1,5 @@
 # Toshiba Canvio AeroCast - Gaining Root Access to Run Open Source Software (OSS)
 
-Author: A. Kashani (`@_k45h_`)
-
 *Disclaimer: The security research discussed herein is conducted solely in my personal capacity and is not related to or endorsed by my employer. Any findings, opinions, or recommendations expressed are my own and do not reflect the views of my employer.*
 
 ### Introduction
